@@ -19,7 +19,7 @@
 <h3>Languages / API I know</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-java-f7df1c?style=flat-square&logo=openjdk&logoColor=black" />
-  <img alt="CSharp" src="https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge" />
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -47,8 +47,12 @@ If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/
 
 <center>
 <h3>You can find me here</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fdynamero.com"> <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2523FF0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40TheMentorCodeLab"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FpmM4emCbuH"> <img alt="Static Badge" src="https://img.shields.io/badge/Modrinth-%231BD96A.svg?style=for-the-badge&logo=modrinth&logoColor=black&link=https%3A%2F%2Fmodrinth.com%2Fuser%2Fjiraiyah">
-
+<p>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white&link=https%3A%2F%2Fdynamero.com">
+  <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-%2523FF0000?style=for-the-badge&logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40TheMentorCodeLab">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FpmM4emCbuH">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Modrinth-%231BD96A.svg?style=for-the-badge&logo=modrinth&logoColor=black&link=https%3A%2F%2Fmodrinth.com%2Fuser%2Fjiraiyah">
+</p>
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=drkhodakarami&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats) ![drkhodakarami's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkhodakarami&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
