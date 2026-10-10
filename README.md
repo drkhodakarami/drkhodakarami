@@ -19,7 +19,7 @@
 <h3>Languages / API I know</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-java-f7df1c?style=flat-square&logo=openjdk&logoColor=black" />
-  <img alt="C#" src=https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge" />
+  <img alt="CSharp" src=https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
