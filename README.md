@@ -11,9 +11,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="mySQL" src="https://img.shields.io/badge/-mySQL-E10098?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Sqlite" src="https://img.shields.io/badge/-Sqlite-2088FF?style=flat-square&logo=sqlite&logoColor=white" />
-</center>
-<p></p>
- <center>
+<p />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-adobe%20photoshop-30a8ff?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-EA05B8?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
